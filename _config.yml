@@ -2,6 +2,7 @@ name: CARE
 favicon: null
 layout_spectrum: 0.622844249708578
 typography_spectrum: 0.9575781375169754
+title: CARE
 cta:
   domain: null
   bucket: null
